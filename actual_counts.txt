@@ -1,0 +1,49 @@
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 32 " | grep " 38 " | grep " 39 " | wc -l                                            
+1840
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 32 " | grep " 38 " | grep " 48 " | wc -l                                            
+1646
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 32 " | grep " 39 " | grep " 41 " | wc -l                                            
+2359
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 32 " | grep " 48 " | grep " 41 " | wc -l                                            
+2063
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 32 " | grep " 48 " | grep " 39 " | wc -l                                            
+5402
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 36 " | grep " 38 " | grep " 39 " | wc -l                                            
+1945
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 36 " | grep " 38 " | grep " 48 " | wc -l                                            
+1360
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 36 " | grep " 39 " | grep " 49 " | wc -l                                            
+20
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 36 " | grep " 39 " | grep " 48 " | wc -l                                            
+1116
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 38 " | grep " 39 " | grep " 110 " | wc -l                                           
+1740
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 38 " | grep " 39 " | grep " 170 " | wc -l                                           
+2019
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 38 " | grep " 39 " | grep " 41 " | wc -l                                            
+3051
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 38 " | grep " 39 " | grep " 48 " | wc -l                                            
+6102
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 38 " | grep " 41 " | grep " 48 " | wc -l                                            
+2374
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 38 " | grep " 48 " | grep " 110 " | wc -l                                           
+1361
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 38 " | grep " 48 " | grep " 170 " | wc -l                                           
+1538
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 39 " | grep " 48 " | grep " 41 " | wc -l                                            
+7366
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 39 " | grep " 48 " | grep " 110 " | wc -l                                           
+1037
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 39 " | grep " 48 " | grep " 170 " | wc -l                                           
+1206
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 39 " | grep " 48 " | grep " 225 " | wc -l                                           
+1400
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 39 " | grep " 48 " | grep " 237 " | wc -l                                           
+1244
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 39 " | grep " 48 " | grep " 310 " | wc -l                                           
+1347
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 39 " | grep " 48 " | grep " 475 " | wc -l                                           
+1092
+surajshetiya1:~/workspace $ cat retail1.dat | grep " 39 " | grep " 48 " | grep " 65 " | wc -l                                            
+1797
+surajshetiya1:~/workspace $ 
